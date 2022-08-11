@@ -1,6 +1,8 @@
-Project : Online Library System
-Team Members : 2110030351 , 2110030352, 2110030449 , 2110030201
-Online Library Management System maintains the information
+Project : Online Library System 
+
+Team Members : 2110030351 , 2110030352, 2110030449 , 2110030201 
+
+Online Library Management System maintains the information 
 about the books present in the library, their authors, the members of library to 
 whom books are issued, library staff and all.  Maintenance of all this information manually is a very complex task. 
 The Online Library Management has been designed to 
